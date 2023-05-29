@@ -1,3 +1,0 @@
-# Encriptador-
-
-en proceso
